@@ -1,0 +1,26 @@
+﻿@{
+var db = Database.Open("bakery"); 
+var selectQueryString = "SELECT * FROM Instrumentos ORDER BY Id"; 
+}
+<html> 
+<body> 
+<h1>Descripcion de Instrumentos</h1> 
+<table border="1" width="50%" > 
+<tr style= "color:#000080">
+<th>Id</th> 
+<th>Product</th> 
+<th>Description</th> 
+<th>Price</th> 
+</tr>
+@foreach(var row in db.Query(selectQueryString))
+{
+<tr style= "color:#000080"> 
+<td>@row.Id</td> 
+<td>@row.Name</td> 
+<td>@row.Description</td> 
+<td style="text-align:right">@row.Price</td> 
+</tr> 
+}
+</table> 
+</body> 
+</html>

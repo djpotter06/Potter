@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+
+<html lang="es">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <meta charset="utf-8" />
+        <title>BINSJA - @Page.Title</title>
+        <link href="~/Content/Site.css" rel="stylesheet" />
+         <!-- Start WOWSlider.com HEAD section -->
+        <link rel="stylesheet" type="text/css" href="engine1/style.css" />
+        <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        <script src="~/Scripts/modernizr-2.6.2.js"></script>
+        <!--<script src="~/Scripts/jquery-1.8.2.min.js"></script>  -->
+        <script type="text/javascript" src="engine1/jquery.js"></script>
+         <!-- End WOWSlider.com HEAD section -->
+        @RenderSection("Scripts", required: false)           
+	    
+
+    </head>
+    <body>
+        <div id="page">
+            <header>
+                <p class="site-title"><a href="~/">B.I.N.S.J.D.</a></p>
+                <nav>
+                    <ul>
+                        <li><a href="~/">Inicio</a></li>
+                        <li><a href="~/WebGrib">WebGrib</a></li>
+                        <li><a href="~/Grafics">Graficos</a></li>
+                        <li><a href="~/Videos">Videos</a></li>
+                        <li><a href="~/About">Acerca de nosotros</a></li>
+                    </ul>
+                </nav>
+            </header>
+            <div id="body">
+                @RenderBody()
+            </div>
+            <footer>
+                &copy;@DateTime.Now.Year - B.I.N.S.J.D.
+            </footer>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>4.8</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <Captions>true</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>true</Controls>
+            <GalleryName>BINSJD</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>blinds</ImageEffect>
+            <ImageFillColor>#FFFFFF</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/dot/</ImageTemplate>
+            <ImageTemplateName>Dot</ImageTemplateName>
+            <ImageWidth>960</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>0</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishIndex>index.html</PublishIndex>
+            <PublishPreview>true</PublishPreview>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>true</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <TemplateName>dot</TemplateName>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>false</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/Potter/Documents/My Web Sites/Panadería1/Images/Products/IMG-20131115-WA0018.jpg</url>
+                <title>IMG-20131115-WA0018</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Potter/Documents/My Web Sites/Panadería1/Images/Products/IMG-20131115-WA0021.jpg</url>
+                <title>IMG-20131115-WA0021</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Potter/Documents/My Web Sites/Panadería1/Images/Products/IMG-20131115-WA0017.jpg</url>
+                <title>IMG-20131115-WA0017</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Potter/Documents/My Web Sites/Panadería1/Images/Products/IMG-20131115-WA0008.jpg</url>
+                <title>IMG-20131115-WA0008</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Potter/Documents/My Web Sites/Panadería1/Images/Products/IMG-20131115-WA0009.jpg</url>
+                <title>IMG-20131115-WA0009</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Potter/Documents/My Web Sites/Panadería1/Images/Products/IMG-20131115-WA0010.jpg</url>
+                <title>IMG-20131115-WA0010</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Potter/Documents/My Web Sites/Panadería1/Images/Products/IMG-20131115-WA0011.jpg</url>
+                <title>IMG-20131115-WA0011</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Potter/Documents/My Web Sites/Panadería1/Images/Products/IMG-20131115-WA0012.jpg</url>
+                <title>IMG-20131115-WA0012</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Potter/Documents/My Web Sites/Panadería1/Images/Products/IMG-20131115-WA0016.jpg</url>
+                <title>IMG-20131115-WA0016</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Potter/Documents/My Web Sites/Panadería1/Images/Products/IMG-20131115-WA0022.jpg</url>
+                <title>IMG-20131115-WA0022</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Potter/Documents/My Web Sites/Panadería1/Images/Products/IMG-20131115-WA0023.jpg</url>
+                <title>IMG-20131115-WA0023</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Potter/Documents/My Web Sites/Panadería1/Images/Products/IMG-20131115-WA0014.jpg</url>
+                <title>IMG-20131115-WA0014</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Potter/Documents/My Web Sites/Panadería1/Images/Products/IMG-20131115-WA0019.jpg</url>
+                <title>IMG-20131115-WA0019</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Potter/Documents/My Web Sites/Panadería1/Images/Products/IMG-20131112-WA0003.jpg</url>
+                <title>IMG-20131112-WA0003</title>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
